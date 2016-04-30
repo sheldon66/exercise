@@ -28,7 +28,7 @@ main(){
       }
     }
   }
-  
+
 
   printf("%s", text);
 
